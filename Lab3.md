@@ -303,8 +303,7 @@ Areas (DA)
     two options -- pick tables by geography or year, we will pick by
     year
 
-2.  ![](./media/image1.jpeg){width="5.921511373578303in"
-    height="2.7399890638670166in"}Under year you will see **2016**
+2.  ![](./media/image1.jpeg)Under year you will see **2016**
 
 3.  ![](./media/image2.png){width="7.284722222222222in"
     height="4.097916666666666in"}Then pick ***Profile of census tracks*,
